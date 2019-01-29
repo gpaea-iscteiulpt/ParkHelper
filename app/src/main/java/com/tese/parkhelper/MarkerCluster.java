@@ -3,6 +3,7 @@ package com.tese.parkhelper;
 import android.media.Image;
 
 import com.google.android.gms.maps.model.LatLng;
+import com.google.maps.android.clustering.ClusterItem;
 
 public class MarkerCluster implements ClusterItem {
 
